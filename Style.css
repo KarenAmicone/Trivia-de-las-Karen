@@ -1,0 +1,199 @@
+.caja {
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    color: #000000;
+    overflow: hidden;
+    text-align: center;
+    
+    }
+/* estilo de subtitulo */
+.subtitle {
+     font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 1000;
+    color: #000000;
+    padding: 20px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+#opciones{
+    margin-top:30px;
+  margin-right:5px;
+  font-size:12px;
+  font-family:verdana;
+  font-weight:bold;
+  padding:8px;
+  border-radius: 6px;
+  border: 2px solid #C45208;
+  background-color: #fafd6e;
+}
+#opcion2{
+    margin-top:30px;
+  margin-right:5px;
+  font-size:12px;
+  font-family:verdana;
+  font-weight:bold;
+  padding:8px;
+  border-radius: 6px;
+  border: 2px solid #C45208;
+  background-color: #fafd6e;
+}
+
+/* estilo de placeholder one y boton two*/
+
+#one{
+  text-align:center;
+  margin-top: 20px;
+}
+
+#two{
+  text-align:center;
+  
+}
+
+.play {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: #000000;
+    background: #ffcc00;
+    padding: 20px;
+   border: 4px solid #ff0000;
+   border-radius: 50px;
+   text-align: center;
+  text-align: center;
+}
+body{
+     background-image:url(http://blog.oxforddictionaries.com/wp-content/uploads/Comic-book-quiz.jpg);
+  
+}
+
+#bienvenida{
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+    color: #000000;
+    background: #ffcc00;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 50px;
+   border: 4px solid #ff0000;
+    text-align: center
+}
+
+.boton {
+  margin-top:30px;
+  margin-right:5px;
+  font-size:12px;
+  font-family:verdana;
+  font-weight:bold;
+  padding:8px;
+  border-radius: 20px;
+  border: 4px solid #ff0000;
+  background-color: #ffcc00;
+
+}
+#nombre{
+  text-align:center;
+  margin-top: 20px;
+}
+
+#botoninicio{
+  text-align:center;
+  margin-top:30px;
+}
+#opciones{
+    margin-top:30px;
+  margin-right:5px;
+  font-size:12px;
+  font-family:verdana;
+  font-weight:bold;
+  padding:8px;
+  border-radius: 20px;
+  border: 2px solid #C45208;
+  background-color: #ffcc00;
+}
+
+.btn{
+  margin-top:30px;
+  margin-right:5px;
+  font-size:12px;
+  font-family:verdana;
+  font-weight:bold;
+  padding:8px;
+  border-radius: 6px;
+  border: 2px solid #C45208;
+  background-color: #fafd6e;
+  text-align:center;
+}
+
+
+.answers{
+    text-align: center;
+  font-size:20px;
+  
+}
+.question{
+    text-align: center;
+  
+}
+
+.games {
+  text-align: center, justify;
+}
+
+#opciones{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+
+ .question{
+    font-family: sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    color:#e6b800;
+    background:#ffffff ;
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    text-align: center;
+}
+
+.answers{
+    text-align: left, justify;
+    margin-top: 10px;
+}
+
+.btn{
+  margin-top:30px;
+  margin-right:5px;
+  font-size:12px;
+  font-family:verdana;
+  font-weight:bold;
+  padding:8px;
+  border-radius: 6px;
+  border: 2px solid #C45208;
+  background-color: #fafd6e;
+  text-align:left;
+}
+
+#playAgain,#tryAgain{
+  text-align:center;
+  font-size:12px;
+  font-family:verdana;
+  font-weight:bold;
+  text-aling: center;
+}
+
+
+#finalButtons{
+  text-align:center;
+}
+
+#pagina2,#preguntas1, #preguntas2,#preguntas3,#comics1,#comics2,#comics3,#finalvj,#finalcomic,#harry1,#harry2,#harry3,#finalHarry{
+    display: none;
+}
